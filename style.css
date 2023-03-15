@@ -109,7 +109,7 @@ p{
 
 }
 
-.about-text{
+.about-text, .info-text{
   line-height: 2;
   word-spacing: 2rem;
   transform: translate(-150%);
